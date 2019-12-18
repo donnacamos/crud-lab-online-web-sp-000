@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import Review from './Review';
 
+import React, { Component } from 'react';
+import Review from './Review';
+
 class Reviews extends Component {
   render() {
 
